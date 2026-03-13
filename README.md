@@ -29,16 +29,6 @@ Modern Fintech Platform built with FastAPI + React
 
 This project simulates a real **digital banking environment** where users can manage accounts, perform transactions, apply for loans, create fixed deposits, use credit cards, and view financial analytics.
 
-# 🎥 Project Demo
-
-> Add your demo GIF or screenshots
-
-```markdown
-![Demo](assets/demo.gif)
-```
-
----
-
 # ✨ Features
 
 ## 🔐 Authentication
