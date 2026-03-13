@@ -18,20 +18,6 @@ A Full Stack Digital Banking System built with FastAPI + React
 <img src="https://img.shields.io/badge/Redis-Cache-red?style=for-the-badge&logo=redis">
 <img src="https://img.shields.io/badge/Celery-Async%20Tasks-green?style=for-the-badge">
 
-</p>
-
-This creates:
-
-✨ typing animation
-
-🏷 tech badges
-
-centered banner
-
-Animated Architecture Diagram
-
-You can add a clean architecture block like this:
-
 ## 🧠 System Architecture
 
 ```text
